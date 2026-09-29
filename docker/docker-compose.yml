@@ -7,3 +7,8 @@ services:
       MONGO_INITDB_ROOT_PASSWORD: 12345
     ports:
       - "27018:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:
