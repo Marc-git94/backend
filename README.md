@@ -1,4 +1,4 @@
-# E-commerce Full Stack (VR) — Backend
+# E-commerce Full Stack (VR) — Backend.
 
 ## Nom del projecte
 E-commerce Full Stack: botiga en línia de productes de realitat virtual (cascs VR, jocs i accessoris).
